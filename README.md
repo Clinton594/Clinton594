@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clinton594" alt="clinton594" /></a> </p>
 
-- 🔭 I’m currently working on [Payecards admin dashboard](https://payecards.com)
+- 🔭 I’m currently working on [Digiypay Finance](https://digitpay.finance)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
